@@ -1,3 +1,5 @@
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+
 local is_key_present = isfile("Ur Name Title.txt");
 if is_key_present == true then
     local kery = readfile("Ur Name Title.txt");
