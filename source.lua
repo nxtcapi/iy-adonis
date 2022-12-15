@@ -29,7 +29,7 @@ if not game:IsLoaded() then
 	notLoaded:Destroy()
 end
 
-ver = '5.9.1'
+ver = '5.9.1 - adonis bypass'
 
 Players = game:GetService("Players")
 
